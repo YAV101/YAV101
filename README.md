@@ -1,16 +1,115 @@
-## Hi there 👋
+# 👋 Hi, I'm Yousuf Alhakimi
 
+🎓 **Computer Science Graduate Student**  
+💻 **Passionate Programmer | Web Developer**  
+🏗️ **Aspiring Software Architect**
 
-**YAV101/YAV101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Computer Science graduate student** with a strong passion for **software development**, **problem solving**, and **building scalable systems**.
+
+I have completed a structured **programming roadmap** from **ProgrammingAdvice.com**, which strengthened my fundamentals in:
+- Programming concepts
+- Algorithms & problem solving
+- Software development best practices
+
+My long-term goal is to become a **Software Architect**, designing systems that are:
+- Scalable
+- Secure
+- Maintainable
+- High-performance
+
+I believe in **continuous learning**, clean code, and turning ideas into real-world solutions.
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+- C++
+- Python
+- Java
+- JavaScript
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- RESTful APIs
+
+### ⚙️ Computer Science Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns (Basic knowledge)
+
+### 🛠 Tools & Technologies
+- Git & GitHub
+- Linux (Basic)
+- Docker (Learning)
+- MySQL / PostgreSQL
+- VS Code
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor's Degree in Computer Science**  
+🏫 **University:** _[Mock University Name]_  
+📍 **Location:** _[Country]_  
+📅 **Graduation Year:** _202X_
+
+---
+
+## 📌 What I'm Currently Doing
+
+- 🔭 Improving my backend development skills  
+- 🌱 Learning **System Design & Software Architecture**
+- 🧩 Solving algorithmic problems regularly
+- 📦 Building personal projects to strengthen my portfolio
+
+---
+
+## 🧩 Projects
+
+Here are some projects you’ll find on my GitHub:
+
+- 🔹 **Student Management System** – CRUD application using OOP principles  
+- 🔹 **Web-Based Portfolio** – Responsive personal website  
+- 🔹 **Algorithm Practice Repository** – Solutions to common CS problems  
+- 🔹 **Mini Backend APIs** – REST APIs using Python / Java  
+
+_(More projects coming soon 🚀)_
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to:
+- Collaboration on projects
+- Internship opportunities
+- Freelance work
+- Tech discussions
+
+📧 **Email:** yousuf.dev@example.com  
+💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+🌐 **Portfolio:** https://your-portfolio.com  
+🐙 **GitHub:** https://github.com/your-username  
+
+---
+
+## ✨ Personal Values
+
+- Clean & readable code
+- Continuous improvement
+- Team collaboration
+- Learning by building
+
+> _"Great software is not written, it is designed."_
+
+---
+
+⭐ **If you like my work, feel free to star my repositories and reach out!**
