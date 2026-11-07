@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yousuf Alhakimi
+# 👋 Hi, I'm Yousuf Mansour  Alhakimi
 
 🎓 **Computer Science Graduate Student**  
 💻 **Passionate Programmer | Web Developer**  
@@ -30,7 +30,7 @@ I believe in **continuous learning**, clean code, and turning ideas into real-wo
 ### 💻 Programming Languages
 - C++
 - Python
-- Java
+- C#
 - JavaScript
 
 ### 🌐 Web Development
@@ -58,9 +58,9 @@ I believe in **continuous learning**, clean code, and turning ideas into real-wo
 ## 📚 Education
 
 🎓 **Bachelor's Degree in Computer Science**  
-🏫 **University:** _[Mock University Name]_  
-📍 **Location:** _[Country]_  
-📅 **Graduation Year:** _202X_
+🏫 **University:** _[Sana'a University]_  
+📍 **Location:** _[Sana'a]_  
+📅 **Graduation Year:** _2026_
 
 ---
 
@@ -94,10 +94,9 @@ I am always open to:
 - Freelance work
 - Tech discussions
 
-📧 **Email:** yousuf.dev@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile  
-🌐 **Portfolio:** https://your-portfolio.com  
-🐙 **GitHub:** https://github.com/your-username  
+📧 **Email:** en.yousufalhakimi@gmail.com  
+💼 **LinkedIn:**  https://www.linkedin.com/in/yousuf-al-hakimi/
+🐙 **GitHub:** https://github.com/YAV101
 
 ---
 
